@@ -1,0 +1,15 @@
+{
+  "name": "would-you-rather-api",
+  "version": "1.0.0",
+  "description": "My first project for API development with Node.js and Express.js",
+  "license": "ISC",
+  "author": "Belay",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
